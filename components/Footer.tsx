@@ -66,7 +66,7 @@ export default function Footer() {
           © 2025 Maison Castellane · SARL · Maussane-les-Alpilles (13) · Tous droits réservés
         </div>
         <div style={{ fontSize: '0.72rem', color: 'rgba(255,255,255,0.2)' }}>
-          Projet démo — Développeur freelance Next.js / TypeScript
+          Made by Triton Org — Développeur freelance Next.js / TypeScript
         </div>
       </div>
     </footer>
